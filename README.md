@@ -32,6 +32,9 @@ crmpf_arc_shulkerbox_w0.0.litematic：第零代基于潜影盒（同时性）的
 crmpf_arc_shulkerbox_w1.0.litematic：第一代基于潜影盒（独立性）的演奏机  
 crmpf_arc_shulkerbox_w1.0_quadro.litematic：w1.0版演奏机的适用于倍速播放的四联机版本  
 
+#### nbs2sheets.py  
+将nbs文件转换为乐谱文件的python代码。  
+
 ---
 
 ### 旧版演奏机：  
