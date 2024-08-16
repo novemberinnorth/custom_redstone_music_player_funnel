@@ -3,11 +3,16 @@
 b站对应视频合集：https://space.bilibili.com/256931342/channel/collectiondetail?sid=3369651&ctype=0  
 
 ## 文件说明：  
-结构方块文件（.nbt）：请至 https://zh.minecraft.wiki/w/%E7%BB%93%E6%9E%84%E6%96%B9%E5%9D%97 查看结构方块及其文件的使用方式。
+结构方块文件（.nbt）：请至 https://zh.minecraft.wiki/w/%E7%BB%93%E6%9E%84%E6%96%B9%E5%9D%97 查看结构方块及其文件的使用方式。  
+
 函数文件（.mcfunction）：Java 版函数的用法参见 https://zh.minecraft.wiki/w/Java%E7%89%88%E5%87%BD%E6%95%B0 ，基岩版请根据 https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%88%E5%87%BD%E6%95%B0 自行调整文件的根目录等。  
+
 数据包：请至 https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85 查询自己版本的数据包版本编号，并修改文件中所有 pack.mcmeta 中的 pack_format 一项的值。  
+
 投影文件（.litematic）：请自行查阅相关资料，这里推荐XeKr的视频 https://www.bilibili.com/video/BV1DJ411X78m 。  
+
 C++文件：旧版演奏机的代码建议用Dev-Cpp打开，新版演奏机的代码建议用Vscode打开，否则中文注释可能会乱码。  
+
 可执行文件：不建议直接双击运行新版演奏机的exe文件，中文可能会乱码，建议在Vscode里的终端运行。  
 
 ---
