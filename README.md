@@ -1,5 +1,7 @@
 # custom_redstone_music_player_funnel  
 基于漏斗识别的高压红石音乐演奏机  
+b站对应视频合集：https://space.bilibili.com/256931342/channel/collectiondetail?sid=3369651&ctype=0  
+
 ## 文件说明：  
 结构方块文件（.nbt）：请至 https://zh.minecraft.wiki/w/%E7%BB%93%E6%9E%84%E6%96%B9%E5%9D%97 查看结构方块及其文件的使用方式。
 函数文件（.mcfunction）：Java 版函数的用法参见 https://zh.minecraft.wiki/w/Java%E7%89%88%E5%87%BD%E6%95%B0 ，基岩版请根据 https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%88%E5%87%BD%E6%95%B0 自行调整文件的根目录等。  
