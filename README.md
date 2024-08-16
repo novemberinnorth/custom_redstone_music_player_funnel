@@ -7,7 +7,7 @@ b站对应视频合集：https://space.bilibili.com/256931342/channel/collection
 
 函数文件（.mcfunction）：Java 版函数的用法参见 https://zh.minecraft.wiki/w/Java%E7%89%88%E5%87%BD%E6%95%B0 ，基岩版请根据 https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%88%E5%87%BD%E6%95%B0 自行调整文件的根目录等。  
 
-数据包：请至 https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85 查询数据包的使用方法和版本编号，特别注意 pack.mcmeta 中的 pack_format 一项的值随游戏版本变化。  
+数据包：请至 https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85 查询数据包的使用方法和版本编号，特别注意 pack.mcmeta 中的 pack_format 一项的值随游戏版本变化而变化。  
 
 投影文件（.litematic）：请自行查阅相关资料，这里推荐XeKr的视频 https://www.bilibili.com/video/BV1DJ411X78m 。  
 
